@@ -1,0 +1,46 @@
+----------------------------------
+DEPOSIT
+----------------------------------
+Prince..........(Deposit Thread) 1 is trying to deposit .... €1000.0
+Prince..........(Deposit Thread) 1 completed deposit...Current balance after deposit: €1100.0
+----------------------------------
+DEPOSIT
+----------------------------------
+Prince..........(Deposit Thread) 1 is trying to deposit .... €1000.0
+----------------------------------
+WITHDRAW
+----------------------------------
+Sneha..........(Withdraw Thread) 1 is trying to withdraw..... €1000.0
+Sneha..........(Withdraw Thread) 1 completed withdrawal...Current balance after withdrawal: €100.0
+----------------------------------
+WITHDRAW
+----------------------------------
+Sneha..........(Withdraw Thread) 1 is trying to withdraw..... €100.0
+----------------------------------
+WITHDRAW
+----------------------------------
+Sneha..........(Withdraw Thread) 1 is trying to withdraw..... €100.0
+Sneha..........(Withdraw Thread) 1 completed withdrawal...Current balance after withdrawal: €0.0
+----------------------------------
+WITHDRAW
+----------------------------------
+Sneha..........(Withdraw Thread) 1 is trying to withdraw..... €100.0
+----------------------------------
+MINI STATEMENT
+----------------------------------
+Type: Deposit
+Amount: €1000.00
+Balance: €1100.00
+Date: Tue Apr 28 16:17:36 IST 2020
+
+Type: Withdraw
+Amount: €1000.00
+Balance: €100.00
+Date: Tue Apr 28 16:18:01 IST 2020
+
+Type: Withdraw
+Amount: €100.00
+Balance: €0.00
+Date: Tue Apr 28 16:18:26 IST 2020
+
+
